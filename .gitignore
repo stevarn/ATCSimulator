@@ -1,0 +1,6 @@
+app/vendor/
+app/logs/*
+!/logs/README.md
+cron/credentials.php
+migration/credentials.php
+app/phaser_src/assets
